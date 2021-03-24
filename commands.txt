@@ -6,3 +6,4 @@ ng generate service hero
 
 ng generate module app-routing --flat --module=app
 
+npm install angular-in-memory-web-api --save
